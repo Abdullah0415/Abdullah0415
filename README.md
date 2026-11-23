@@ -36,7 +36,7 @@ Log analysis · Detection engineering · Alert triage and tuning · Incident inv
 ### 🌱 Currently
 
 - ✅ SOC Home Lab complete (18 exercises, November 2026)
-- 🎣 Phishing email analysis: header, link and attachment triage of real samples
+- 🎣 Phishing Analysis Lab complete: [5 real emails triaged](https://github.com/Abdullah0415/Phishing-Analysis-Lab) (header, links and attachments), November 2026
 - 📚 Working through the TryHackMe SOC Level 1 path
 - 🔜 Next: a web penetration testing lab and a network security lab, each ending with detecting the attacks in my SIEM
 
